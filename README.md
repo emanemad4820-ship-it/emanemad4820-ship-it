@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">💜 Hi there, I'm Eman Emad!</h1>
 
-<!--
-**emanemad4820-ship-it/emanemad4820-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>AI & Machine Learning Developer</b> <br>
+  Passionate about <b>Computer Vision</b> and <b>Deep Learning</b> ✨
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills
+`Python` | `Machine Learning` | `Deep Learning` | `Computer Vision` |  
+`TensorFlow` | `Keras` | `Pandas` | `NumPy` | `Matplotlib` |  
+`Flask` | `Git` | `Data Preprocessing`  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmanEmad&show_icons=true&theme=radical&hide=issues,contribs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanEmad&layout=compact&theme=radical" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmanEmad&theme=react-dark&hide_border=true" width="90%" />
+</p>
+
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/eman-emad-eldin-68890529a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>“Transforming ideas into intelligent AI solutions 🧠💡”</i></p>
