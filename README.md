@@ -1,16 +1,16 @@
 <h1 align="center">💜 Hi there, I'm Eman Emad!</h1>
-
 <p align="center">
-  <b>AI & Machine Learning Developer</b> <br>
-  Passionate about <b>Computer Vision</b> and <b>Deep Learning</b> ✨
+  <b>Data Analyst</b> <br>
+  Turning raw data into clear, actionable business insights 📊✨
 </p>
 
 ---
 
 ### 🧠 Skills
-`Python` | `Machine Learning` | `Deep Learning` | `Computer Vision` |  
-`TensorFlow` | `Keras` | `Pandas` | `NumPy` | `Matplotlib` |  
-`Flask` | `Git` | `Data Preprocessing`  
+`Excel` | `Power Query` | `Power BI` | `SQL` | `Python` |  
+`Pandas` | `NumPy` | `Matplotlib` | `Data Cleaning` |  
+`Dashboard Design` | `Data Visualization` | `Business Insights`
+`Machine Learning` |`TensorFlow` | `Keras` | `Data Preprocessing`  
 
 ---
 
